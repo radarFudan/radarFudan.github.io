@@ -10,3 +10,5 @@ $$ = \left\{\begin{array}{lcl} ,& & {}\\ ,& & {} \end{array} \right.$$
 The number of schemes choosing d balls from N+d elements
 $${N+d \choose d}$$
 
+Lots of symbols: 
+[symbols](https://www.evanott.com/data-analysis/LaTeX/symbols.html)
