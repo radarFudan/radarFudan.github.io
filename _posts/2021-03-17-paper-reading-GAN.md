@@ -4,7 +4,7 @@ title: "paper reading: GAN"
 date: 2021-03-17
 ---
 
-#### Paper 2
+### Paper 2
 [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 
 It is a minimax two-player game:

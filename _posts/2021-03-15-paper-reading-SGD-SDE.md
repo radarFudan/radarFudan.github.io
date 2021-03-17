@@ -4,7 +4,7 @@ title: "paper reading SGD&SDE"
 date: 2021-03-15
 ---
 
-#### Paper 1
+### Paper 1
 [On the Validity of Modeling SGD with SDEs](https://arxiv.org/abs/2102.12470)
 
 Linear Scaling Rule: When the minibatch size is multiplied by kappa, multiply the LR by kappa. 
