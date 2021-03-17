@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "paper reading GAN"
+title: "paper reading: GAN"
 date: 2021-03-17
 ---
 
-Paper 2
+#### Paper 2
 [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 
 It is a minimax two-player game:
@@ -23,7 +23,7 @@ Compare two kinds of models:
 
 Main contents of GAN
 
-$$\min_G \max_G V(D, G) = \mathbb{E}_{x \sim p_{data}(x)} [\log D(x)] + \mathbb{E}_{z \sim p_z(z)}[\log(1 - D(G(z)))].$$
+$$\min_G \max_D V(D, G) = \mathbb{E}_{x \sim p_{data}(x)} [\log D(x)] + \mathbb{E}_{z \sim p_z(z)}[\log(1 - D(G(z)))].$$
 
 Reference:
 1. [Deep generative stochastic networks trainable by backprop](https://arxiv.org/abs/1306.1091)

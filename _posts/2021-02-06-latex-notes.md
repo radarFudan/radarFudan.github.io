@@ -35,4 +35,6 @@ How to write algorithm part in LaTeX:
  }
  \caption{How to write algorithms}
 \end{algorithm}
-[Overleaf_website](https://www.overleaf.com/learn/latex/algorithms)
+
+Reference:
+1. [Overleaf_website](https://www.overleaf.com/learn/latex/algorithms)
