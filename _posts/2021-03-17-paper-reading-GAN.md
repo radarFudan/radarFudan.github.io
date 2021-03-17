@@ -15,4 +15,8 @@ D: A discriminative model, estimates the probability that a sample came from the
 
 G's target is to maximize the probability for D to make a mistake. 
 
+1. GSN
+
+2. Adversarial nets framework does not require a Markov chain for sampling
+
 Reference:
