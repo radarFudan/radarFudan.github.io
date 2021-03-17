@@ -24,6 +24,8 @@ Compare two kinds of models:
 Main contents of GAN
 
 $$E = M \cdot c^2$$
+$E = M \cdot c^2$
+\[E = M \cdot c^2\]
 
 Reference:
 1. [Deep generative stochastic networks trainable by backprop](https://arxiv.org/abs/1306.1091)
