@@ -22,6 +22,7 @@ Compare two kinds of models:
 2. Adversarial nets framework does not require a Markov chain for sampling
 
 Main contents of GAN
+
 $$\min_G \max_G V(D, G) = \mathbb{E}_{x \sim p_{data}(x)} [\log D(x)] + \mathbb{E}_{z \sim p_z(z)}[\log(1 - D(G(z)))].$$
 
 Reference:
