@@ -23,6 +23,7 @@ Compare two kinds of models:
 
 Main contents of GAN
 
+$$ E = m\cdot c^2 \label{eq:mc2}$$
 $$E = M \cdot c^2$$
 $E = M \cdot c^2$
 \[E = M \cdot c^2\]
