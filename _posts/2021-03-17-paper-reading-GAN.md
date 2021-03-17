@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "paperreading"
+title: "paper reading GAN"
 date: 2021-03-17
 ---
 

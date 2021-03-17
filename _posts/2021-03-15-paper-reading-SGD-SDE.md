@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "paperreading"
+title: "paper reading SGD&SDE"
 date: 2021-03-15
 ---
 
