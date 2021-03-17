@@ -12,3 +12,4 @@ Reference:
 5. [Some Github Page source Code](https://github.com/lee-dohm/lee-dohm.github.io/blob/77260089817da592b570b64a33f5642dca60a9b9/_layouts/base.html#L20-L23)
 6. [Others](https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages)
 7. [MathJax documents](http://docs.mathjax.org/en/latest/)
+8. [Additional pages](http://flennerhag.com/2017-01-14-latex/)
