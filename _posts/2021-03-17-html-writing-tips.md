@@ -64,7 +64,6 @@ The source code are:
 > This is the \*\[Markdown Guide\](https://www.markdownguide.org)\*.
 > See the section on \[\`code\`\](\#code).
 
-## Reference:
-
+## Reference: <br>
 1. [Markdownguide](https://www.markdownguide.org/basic-syntax/)
 2. [Learn How to Write Markdown & LaTeX in The Jupyter Notebook](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)
