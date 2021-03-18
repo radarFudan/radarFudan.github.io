@@ -4,15 +4,15 @@ title: "HTML and markdown"
 date: 2021-03-17
 ---
 
-##### Line break
+### Line break
 
 Use <p></p> to from a paragraph. And <br> as a break. 
 
-##### Title
+### Title
 
 \# in markdown is equivalent to h1 in html. 
 
-##### Emphasis
+### Emphasis
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -22,7 +22,7 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes ~ . ~~Scratch this.~~
 
-##### Nested Blockquotes
+### Nested Blockquotes
 
 Add a >> in front of the paragraph you want to nest.
 
@@ -30,24 +30,24 @@ Add a >> in front of the paragraph you want to nest.
 >> b
 >>> c (Test for third nested block)
 
-##### Horizontal Rules: 
+### Horizontal Rules: 
 
 To create a horizontal rule, use three or more asterisks(***), dashes(---), or underscores(___) on a line by themselves. Like following: 
 
 ---
 
-##### Adding Titles: 
+### Adding Titles: 
 
 You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in parentheses after the URL.
 
 My favorite search engine is \[Duck Duck Go\](https://duckduckgo.com "The best search engine for privacy").
 
-##### URLs and Email Addresses:
+### URLs and Email Addresses:
 
 To quickly turn a URL or email address into a link, enclose it in angle brackets.
 \<https://www.markdownguide.org\>
 
-##### Formatting links: 
+### Formatting links: 
 
 To emphasize links, add asterisks before and after the brackets and parentheses. To denote links as code, add backticks in the brackets.
 
@@ -61,7 +61,7 @@ The source code are:
 > This is the *[Markdown Guide](https://www.markdownguide.org)*.
 > See the section on [`code`](#code).
 
-##### Reference:
+### Reference:
 
 1. [Markdownguide](https://www.markdownguide.org/basic-syntax/)
 2. [Learn How to Write Markdown & LaTeX in The Jupyter Notebook](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)
