@@ -21,5 +21,8 @@ Compare two kinds of models:
 
 $$\min_G \max_D V(D, G) = \mathbb{E}_{x \sim p_{data}(x)} [\log D(x)] + \mathbb{E}_{z \sim p_z(z)}[\log(1 - D(G(z)))].$$
 
-## Reference:
+The cost to fully train the inner loop(discriminator D) is too high, so we choose to go $k$ $D-$step and $1$ $G-$step. 
+
+Reference:
 1. [Deep generative stochastic networks trainable by backprop](https://arxiv.org/abs/1306.1091)
+2. 
