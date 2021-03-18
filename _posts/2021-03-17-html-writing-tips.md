@@ -34,6 +34,13 @@ For example
 >> b
 >>> c (Test for third nested block)
 
+## Code Blocks
+
+    <html>
+        <head>
+            <title> Test </title>
+        </head>
+
 ## Horizontal Rules: 
 
 To create a horizontal rule, use three or more asterisks(\*\*\*), dashes(\-\-\-), or underscores(\_\_\_) on a line by themselves. Like following: 
