@@ -9,7 +9,7 @@ date: 2021-03-15
 
 Linear Scaling Rule: When the minibatch size is multiplied by kappa, multiply the LR by kappa. 
 
-SVAG: x_{k+1} = x_k - eta / l L'^l_{gamma_k} (x_k).
+**SVAG**: $x_{k+1} = x_k - \eta / l L'^l_{\gamma_k} (x_k).$<br>
 SVAG provides an order-1 weak approximation to the corresponding SDE. 
 
 Group Norm:

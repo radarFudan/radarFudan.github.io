@@ -34,6 +34,10 @@ For example
 >> b
 >>> c (Test for third nested block)
 
+## Code
+
+Quote it using \`code\`. Like `code`. 
+
 ## Code Blocks
 
     <html>
@@ -41,17 +45,13 @@ For example
             <title> Test </title>
         </head>
 
-## Code
-
-Quote it using \`code\`. Like `code`. 
-
 ## Horizontal Rules: 
 
 To create a horizontal rule, use three or more asterisks(\*\*\*), dashes(\-\-\-), or underscores(\_\_\_) on a line by themselves. Like following: 
 
 ---
 
-## Adding Titles: 
+## Adding Titles for Links: 
 
 You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in parentheses after the URL. <br>
 My favorite search engine is \[Duck Duck Go\](https://duckduckgo.com \"The best search engine for privacy\").
@@ -61,7 +61,7 @@ My favorite search engine is \[Duck Duck Go\](https://duckduckgo.com \"The best 
 To quickly turn a URL or email address into a link, enclose it in angle brackets.
 \<https://www.markdownguide.org\>
 
-## Formatting links: 
+## Formatting Links: 
 
 To emphasize links, add asterisks before and after the brackets and parentheses. To denote links as code, add backticks in the brackets. <br>
 I love supporting the **[EFF](https://eff.org)**.
@@ -73,7 +73,7 @@ The source code are: <br>
 > This is the \*\[Markdown Guide\](https://www.markdownguide.org)\*.
 > See the section on \[\`code\`\](\#code).
 
-## Linking images
+## Linking Images
 
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.
 
