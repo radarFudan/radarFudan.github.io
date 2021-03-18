@@ -19,6 +19,8 @@ Compare two kinds of models:
 
 ## Main contents of GAN
 
+$D(x)$ represents the probability that $x$ came from the data rather than $p_g$.
+
 $$\min_G \max_D V(D, G) = \mathbb{E}_{x \sim p_{data}(x)} [\log D(x)] + \mathbb{E}_{z \sim p_z(z)}[\log(1 - D(G(z)))].$$
 
 The cost to fully train the inner loop(discriminator D) is too high, so we choose to go $k$ $D-$step and $1$ $G-$step. 
