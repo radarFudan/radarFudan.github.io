@@ -52,14 +52,12 @@ To quickly turn a URL or email address into a link, enclose it in angle brackets
 
 ## Formatting links: 
 
-To emphasize links, add asterisks before and after the brackets and parentheses. To denote links as code, add backticks in the brackets.
-
+To emphasize links, add asterisks before and after the brackets and parentheses. To denote links as code, add backticks in the brackets. <br>
 I love supporting the **[EFF](https://eff.org)**.
 This is the *[Markdown Guide](https://www.markdownguide.org)*.
 See the section on [`code`](#code).
 
-The source code are:
-
+The source code are: <br>
 > I love supporting the \*\*\[EFF\](https://eff.org)\*\*.
 > This is the \*\[Markdown Guide\](https://www.markdownguide.org)\*.
 > See the section on \[\`code\`\](\#code).
