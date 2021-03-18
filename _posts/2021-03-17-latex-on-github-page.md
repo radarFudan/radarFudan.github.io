@@ -4,7 +4,7 @@ title: "Latex support on github pages"
 date: 2021-03-17
 ---
 
-The reference are detailed and I won't invent the wheel again. 
+The reference are detailed and I won't reinvent the wheel again. 
 
 ## Reference:
 1. [Github Issue](https://github.com/github/pages-gem/issues/307)
