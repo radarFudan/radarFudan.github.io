@@ -13,11 +13,15 @@ date: 2021-03-15
 SVAG provides an order-1 weak approximation to the corresponding SDE. (SVAG converges weakly to the SDE)
 
 $$\mathcal{L}_{\overline{\gamma}_k}^l (\cdot) := \frac{1 + \sqrt{2l-1}}{2} \mathcal{L}_{\gamma_{k, 1}}(\cdot) + \frac{1 - \sqrt{2l-1}}{2} \mathcal{L}_{\gamma_{k, 2}}(\cdot).$$
+
 (But why this form?)
 
-**C-Closedness**: Three metrics differ by a multiplicative constant controlled by C. 
+**C-Closedness**: Three metrics differ by a multiplicative constant controlled by $C$. <br>
+squared weight norm $|x|^2$, squared gradient norm $|\nabla \mathcal{L}(x)|^2$, trace of noise covariance $Tr[\Sigma(x)]$.
 
+## A condition for SDE approximation to hold. 
 
+$$\eta \leq \frac{\overline{N}_{\infty}}{\overline{G}_{\infty}}(C^2 - 1).$$
 
 ## Model gradient descent as Levy process:
 
