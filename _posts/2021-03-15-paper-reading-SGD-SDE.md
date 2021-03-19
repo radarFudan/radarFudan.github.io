@@ -25,6 +25,8 @@ The three metrics are: squared weight norm $|x|^2$, squared gradient norm $|\nab
 
 $$\eta \leq \frac{\overline{N}_{\infty}}{\overline{G}_{\infty}}(C^2 - 1).$$
 
+**Problem**: $\frac{N_{\infty}}{G_{\infty}}$ cannot be measured as simulating the SDE with high precision is computationally expensive. 
+
 ## Model gradient descent as Levy process:
 
 **Relevant paper**:
