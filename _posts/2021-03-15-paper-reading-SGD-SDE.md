@@ -21,7 +21,13 @@ SVAG provides an order-1 weak approximation to the corresponding SDE. (SVAG conv
 
 $$\mathcal{L}_{\overline{\gamma}_k}^l (\cdot) := \frac{1 + \sqrt{2l-1}}{2} \mathcal{L}_{\gamma_{k, 1}}(\cdot) + \frac{1 - \sqrt{2l-1}}{2} \mathcal{L}_{\gamma_{k, 2}}(\cdot).$$
 
-(But why this form?)
+(But why this form?)(Or what's the motivation)
+
+1. $\sqrt{\frac{\eta}{L}} \Sigma^l(x) = \sqrt{\eta} \Sigma^1(x),$
+
+2. $= L + \sqrt{2l-1} \Delta L$
+
+3. $|\nabla \mathcal{L}^l_{\overline{\gamma}}_k(x)|^2 \leq l (L_{\overline{\gamma}}') (1+|x|^2).$
 
 **C-Closedness**: Three metrics differ by a multiplicative constant controlled by $C$. A typical value for $C$ is $\sqrt{2}$. <br>
 The three metrics are: squared weight norm $|x|^2$, squared gradient norm $|\nabla \mathcal{L}(x)|^2$, trace of noise covariance $Tr[\Sigma(x)]$.
