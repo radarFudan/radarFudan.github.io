@@ -13,7 +13,7 @@ date: 2021-03-15
 
 ## *Main Content*
 
-**SVAG**: 
+**SVAG**:(Stochastic Variance Amplified Gradient) 
 
 $$x_{k+1} = x_k - \frac{\eta}{l} \nabla \mathcal{L}^l_{\overline{\gamma}_k} (x_k).$$
 
@@ -30,6 +30,12 @@ Guess:
 2. $= L + \sqrt{2l-1} \Delta L$
 
 3. $ | \nabla \mathcal{L}^l_{ \overline{\gamma}_k }(x)|^2 \leq l (L_{\overline{\gamma}}') (1+|x|^2). $
+
+## Two Failue Modes of SDE Approximation
+
+1. Large LR and discretization error
+
+2. Non-Gaussian noise
 
 **C-Closedness**: Three metrics differ by a multiplicative constant controlled by $C$. A typical value for $C$ is $\sqrt{2}$. <br>
 The three metrics are: squared weight norm $|x|^2$, squared gradient norm $|\nabla \mathcal{L}(x)|^2$, trace of noise covariance $Tr[\Sigma(x)]$.
