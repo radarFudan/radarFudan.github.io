@@ -13,9 +13,14 @@ date: 2021-03-15
 
 ## Main Content
 
-**SVAG**: $x_{k+1} = x_k - \frac{\eta}{l} \nabla \mathcal{L}^l_{\overline{\gamma}_k} (x_k).$<br>
-SVAG provides an order-1 weak approximation to the corresponding SDE. (SVAG converges weakly to the SDE) <br>
-$$\mathcal{L}_{\overline{\gamma}_k}^l (\cdot) := \frac{1 + \sqrt{2l-1}}{2} \mathcal{L}_{\gamma_{k, 1}}(\cdot) + \frac{1 - \sqrt{2l-1}}{2} \mathcal{L}_{\gamma_{k, 2}}(\cdot).$$ <br>
+**SVAG**: 
+
+$$x_{k+1} = x_k - \frac{\eta}{l} \nabla \mathcal{L}^l_{\overline{\gamma}_k} (x_k).$$
+
+SVAG provides an order-1 weak approximation to the corresponding SDE. (SVAG converges weakly to the SDE)
+
+$$\mathcal{L}_{\overline{\gamma}_k}^l (\cdot) := \frac{1 + \sqrt{2l-1}}{2} \mathcal{L}_{\gamma_{k, 1}}(\cdot) + \frac{1 - \sqrt{2l-1}}{2} \mathcal{L}_{\gamma_{k, 2}}(\cdot).$$
+
 (But why this form?)
 
 **C-Closedness**: Three metrics differ by a multiplicative constant controlled by $C$. <br>
