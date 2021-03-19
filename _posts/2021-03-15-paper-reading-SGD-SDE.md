@@ -11,7 +11,7 @@ date: 2021-03-15
 
 **Linear Scaling Rule**: When the minibatch size is multiplied by $\kappa$, multiply the LR by $\kappa$. 
 
-## Main Content
+## *Main Content*
 
 **SVAG**: 
 
@@ -23,7 +23,7 @@ $$\mathcal{L}_{\overline{\gamma}_k}^l (\cdot) := \frac{1 + \sqrt{2l-1}}{2} \math
 
 (But why this form?)
 
-**C-Closedness**: Three metrics differ by a multiplicative constant controlled by $C$. <br>
+**C-Closedness**: Three metrics differ by a multiplicative constant controlled by $C$. A typical value for $C$ is $\sqrt{2}$. <br>
 The three metrics are: squared weight norm $|x|^2$, squared gradient norm $|\nabla \mathcal{L}(x)|^2$, trace of noise covariance $Tr[\Sigma(x)]$.
 
 ## A condition for SDE approximation to hold. 
@@ -31,8 +31,6 @@ The three metrics are: squared weight norm $|x|^2$, squared gradient norm $|\nab
 $$\eta \leq \frac{\overline{N}_{\infty}}{\overline{G}_{\infty}}(C^2 - 1).$$
 
 **Problem**: $\frac{N_{\infty}}{G_{\infty}}$ cannot be measured as simulating the SDE with high precision is computationally expensive. 
-
-## Model gradient descent as Levy process:
 
 **Relevant paper**:
 
