@@ -10,13 +10,13 @@ date: 2021-03-15
 **Linear Scaling Rule**: When the minibatch size is multiplied by kappa, multiply the LR by kappa. 
 
 **SVAG**: $x_{k+1} = x_k - \eta / l L'^l_{\gamma_k} (x_k).$<br>
-SVAG provides an order-1 weak approximation to the corresponding SDE. 
+SVAG provides an order-1 weak approximation to the corresponding SDE. (SVAG converges weakly to the SDE)
 
-**Group Norm**:
+$$\mathcl{L}_{\overline{\gamma}_k}^l (\cdot) := \frac{1 + \sqrt{2l-1}}{2} \mathcal{L}_{\gamma_{k, 1}}(\cdot) + \frac{1 - \sqrt{2l-1}}{2} \mathcal{L}_{\gamma_{k, 2}}(\cdot).$$
 
 **C-Closedness**: Three metrics differ by a multiplicative constant controlled by C. 
 
-PreResNet32: 
+
 
 ## Model gradient descent as Levy process:
 
@@ -26,3 +26,4 @@ Claim: In (Cheng et al., 2020) that differences in the third-and-higher moments 
 
 (Smith 2020) defined the noise dominated regime and curvature dominated regime. They showed experimentally that in noise dominated regime, the training properties, including the optimal LR are controlled by noise. 
 
+PreResNet32: (He Kaiming, 2016)
