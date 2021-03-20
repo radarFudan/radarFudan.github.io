@@ -5,6 +5,7 @@ date: 2021-03-18
 ---
 
 ## Paper 3
+[Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 
 ## Earth-Mover distance or Wasserstein-1
 
