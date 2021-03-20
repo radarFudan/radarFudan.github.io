@@ -24,4 +24,4 @@ DCGAN(Deep convolutional GAN):
 
 EBGAN(Energy-based GAN): 
 
-Kantorovich-Rubinstein duality:
+Kantorovich-Rubinstein duality: Proof of the statement in paper can be found in a [note](https://courses.cs.washington.edu/courses/cse599i/20au/resources/L12_duality.pdf). 
