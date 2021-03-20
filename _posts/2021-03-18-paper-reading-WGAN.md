@@ -7,13 +7,16 @@ date: 2021-03-18
 ## Paper 3
 
 ## Earth-Mover distance or Wasserstein-1
+
 $$W(\mathbb{P}_r, \mathbb{P}_g) = \inf_{\gamma \in \Pi(\mathbb{P}_r, \mathbb{P}_g)} \mathbb{E}_{(x, y) \sim \gamma} [\|x - y\|],$$
 
 ## Integral Probability Metrics(IPMs)
+
 $$d_{\mathcal{F}} (\mathbb{P}_r, \mathbb{P}_{\theta}) = \sup_{f \in \mathcal{F}} \mathbb{E}_{x \sim \mathbb{P}_r} [f(x)] - \mathbb{E}_{x \sim \mathbb{P}_{\theta}} [f(x)]$$
+
 as an integral probabilic metric associated with the function class $\mathcal{F}$. 
 
-When every $f \in \mathcal{F}$ we have $-f \in \mathcal{F}$, combined with symmetric and triangular inequality, we have $d_{\mathcal{F}}$ is a pseudometric over Prob($\mathcal{X}$).
+When every $f \in \mathcal{F}$ we have $-f \in \mathcal{F}$, combined with symmetricity and triangular inequality, we have $d_{\mathcal{F}}$ is a pseudometric over Prob($\mathcal{X}$).
 
 **Relevant paper**
 

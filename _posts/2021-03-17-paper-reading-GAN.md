@@ -12,8 +12,7 @@ G: A generative model, capture the data distirbution <br>
 D: A discriminative model, estimates the probability that a sample came from the data distribution rather than G. <br>
 G's target is to maximize the probability for D to make a mistake. 
 
-Compare two kinds of models: 
-
+Compare two kinds of models: <br>
 1. GSN(Generative stochastic network)
 2. Adversarial nets framework does not require a Markov chain for sampling
 
@@ -27,4 +26,3 @@ The cost to fully train the inner loop(discriminator D) is too high, so we choos
 
 Reference:
 1. [Deep generative stochastic networks trainable by backprop](https://arxiv.org/abs/1306.1091)
-2. 
