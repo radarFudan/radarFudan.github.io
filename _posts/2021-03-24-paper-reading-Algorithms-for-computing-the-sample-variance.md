@@ -24,6 +24,9 @@ However, the second form of $S$ is still disastrous numerically.
 Welford, West and Hanson:
 
 $$M_{1, j} = M_{1, j-1} + \frac{1}{j} (x_j - M_{1, j-1})$$
+
 $$S_{1, j} = S_{1, j-1} + (j-1) (x_j - M_{1, j-1})(\frac{x_j - M_{1, j-1}}{j})$$
+
+with $M_{1,1} = x_1$ and $S_{1,1} = 0$
 
 ## 
