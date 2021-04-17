@@ -10,3 +10,12 @@ date: 2021-03-21
 [version 1](https://papers.nips.cc/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf)
 
 *EBM*(Energy Based Model): <br>
+
+
+
+## Summary
+
+The SDE element is not so related to my current project, one book is mentioned during regular meeting:
+
+Random Perturbations of Dynamical Systems by Mark I. Fridlin
+

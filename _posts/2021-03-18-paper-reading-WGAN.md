@@ -21,8 +21,8 @@ When every $f \in \mathcal{F}$ we have $-f \in \mathcal{F}$, combined with symme
 
 **Relevant paper**
 
-DCGAN(Deep convolutional GAN):
+[DCGAN(Deep convolutional GAN)](https://arxiv.org/abs/1511.06434)
 
-EBGAN(Energy-based GAN): 
+[EBGAN(Energy-based GAN)](https://arxiv.org/abs/1609.03126)
 
 Kantorovich-Rubinstein duality: Proof of the statement in paper can be found in a [note](https://courses.cs.washington.edu/courses/cse599i/20au/resources/L12_duality.pdf). 

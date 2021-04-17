@@ -29,7 +29,7 @@ $$S_{1, j} = S_{1, j-1} + (j-1) (x_j - M_{1, j-1})(\frac{x_j - M_{1, j-1}}{j})$$
 
 with $M_{1,1} = x_1$ and $S_{1,1} = 0$
 
-4. An unrelated method is divide the $n$ elements into two part and speed up the method. 
+4. An *unrelated* method is divide the $n$ elements into two part and speed up the method. 
 
 5. When the shift is the computed mean and the textbook algorithm is then applied to the shifted data, one obtains the corrected two-pass algorithm.
 
@@ -37,3 +37,4 @@ $$S = \sum_{i=1}^N (x_i - \overline{x})^2 - \frac{1}{N} (\sum_{i=1}^N (x_i - \ov
 
 ## Condition numbers and error analysis
 
+Unrelated to my current progress, to be continued. 
