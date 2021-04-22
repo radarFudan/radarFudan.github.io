@@ -26,3 +26,5 @@ The cost to fully train the inner loop(discriminator D) is too high, so we choos
 
 Reference:
 1. [Deep generative stochastic networks trainable by backprop](https://arxiv.org/abs/1306.1091)
+
+2. https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
