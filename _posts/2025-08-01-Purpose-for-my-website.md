@@ -29,4 +29,4 @@ Mutual fund separation theorem: https://en.wikipedia.org/wiki/Mutual_fund_separa
 
 7. What is extreme value distributions: Gumbel, Frechet, Weibull. 
 
-8. 
+8. CMU 15-445
