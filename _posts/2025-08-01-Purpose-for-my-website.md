@@ -16,11 +16,10 @@ date: 2025-08-01
 
 1. https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html 
 
-Find this article, read it and conbined and compared it with my previous article. 
-
 2. What is Q-learning?
 
-3. What is mutual fund? 
+3. What is mutual fund? (In Merton's problem)<br>
+Mutual fund separation theorem: https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem
 
 4. Finish the EDMD paper reading
 
@@ -28,4 +27,6 @@ Find this article, read it and conbined and compared it with my previous article
 
 6. Python Leetcode
 
-7. 
+7. What is extreme value distributions: Gumbel, Frechet, Weibull. 
+
+8. 

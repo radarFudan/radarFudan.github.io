@@ -11,10 +11,11 @@ date: 2021-04-22
 
 1. The control in Merton's problem is the Merton's fraction. 
 
-$$\pi(W, t) = \frac{\mu - r}{\sigma^2 \gamma}$$
-$$c(W, t) = $$
+$$\pi(W, t) = \frac{\mu - r}{\sigma^2 \gamma},$$
 
-2. We can give a feedback control form for this problem like
+$$c(W, t) = ,$$
+
+2. We can give a feedback control form for this problem like:
 
 ## Reference 
 
