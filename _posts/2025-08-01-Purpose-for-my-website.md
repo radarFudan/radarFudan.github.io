@@ -21,12 +21,10 @@ date: 2025-08-01
 3. What is mutual fund? (In Merton's problem)<br>
 Mutual fund separation theorem: https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem
 
-4. Finish the EDMD paper reading
+4. Get hands on python virtual env, write a script
 
-5. Get hands on python virtual env, write a script
+5. Python Leetcode
 
-6. Python Leetcode
+6. What is extreme value distributions: Gumbel, Frechet, Weibull. 
 
-7. What is extreme value distributions: Gumbel, Frechet, Weibull. 
-
-8. CMU 15-445
+7. CMU 15-445
