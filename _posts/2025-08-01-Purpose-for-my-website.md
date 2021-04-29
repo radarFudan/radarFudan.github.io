@@ -14,8 +14,6 @@ date: 2025-08-01
 
 ## Recent todo
 
-1. https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html 
-
 2. What is Q-learning?<br>
 "Q" refers to the function that the algorithm computes - the expected rewards for an action taken in a given state.
 

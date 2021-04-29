@@ -47,7 +47,7 @@ Later on, I was fortunate to get the opportunity to take an internship at Megvii
 
 
 
-`gdb` and `vim` are two most important tools I pick up during the OS courses. 
+`gdb` and `vim` are two most important tools I picked up during the OS courses. 
 
 ### Reference
 
@@ -59,7 +59,7 @@ Later on, I was fortunate to get the opportunity to take an internship at Megvii
 
 4. [OSDev](https://wiki.osdev.org/Main_Page)
 
-## MySQL (Database System)
+## SQLite (Database System)
 
 I started to get interested in this topic because I read about an introduction passage on CMU 15-445 module. 
 
