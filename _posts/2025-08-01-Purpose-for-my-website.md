@@ -16,10 +16,12 @@ date: 2025-08-01
 
 1. https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html 
 
-2. What is Q-learning?
+2. What is Q-learning?<br>
+"Q" refers to the function that the algorithm computes - the expected rewards for an action taken in a given state.
 
 3. What is mutual fund? (In Merton's problem)<br>
-Mutual fund separation theorem: https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem
+Mutual fund separation theorem: https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem <br>
+Efficient frontier with no risk-free asset: https://en.wikipedia.org/wiki/Modern_portfolio_theory#Efficient_frontier_with_no_risk-free_asset
 
 4. What is variational inference
 
