@@ -31,7 +31,7 @@ Later on, I was fortunate to get the opportunity to take an internship at Megvii
 
 2. [Deep Learning](https://www.deeplearningbook.org)
 
-3. Various of Machine Learning paper! 
+3. Various Machine Learning paper! 
 
 ## Haskell (Functional Programming)
 
