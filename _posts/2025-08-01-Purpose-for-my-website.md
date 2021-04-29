@@ -25,10 +25,8 @@ Efficient frontier with no risk-free asset: https://en.wikipedia.org/wiki/Modern
 
 4. What is variational inference
 
-5. What is extreme value distributions: Gumbel, Frechet, Weibull. 
+5. CMU 15-445
 
-6. CMU 15-445
+6. Python virtual-env, write a script. (Used for simple project starter)
 
-7. Get hands on python virtual env, write a script
-
-8. Python Leetcode
+7. Python/C Leetcode
