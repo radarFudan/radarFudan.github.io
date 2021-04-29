@@ -44,6 +44,10 @@ I started this part relatively early, when I was a fifth year primary school stu
 
 1. C programming language
 
+2. Accelerate C++ (C++ Primer, Effective C++)
+
+3. [OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
 ## MySQL (Database System)
 
 ###
