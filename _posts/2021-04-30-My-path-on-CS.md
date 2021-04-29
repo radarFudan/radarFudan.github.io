@@ -6,8 +6,6 @@ date: 2021-04-30
 
 ## Pascal (Algorithms)
 
-### 
-
 I started this part relatively early, when I was a fifth year primary school student. 
 
 ### Reference
@@ -20,7 +18,7 @@ I started this part relatively early, when I was a fifth year primary school stu
 
 ## Matlab / Python (Machine Learning)
 
-###
+
 
 ### Reference
 
@@ -30,7 +28,7 @@ I started this part relatively early, when I was a fifth year primary school stu
 
 ## Haskell (Functional Programming)
 
-###
+
 
 ### Reference
 
@@ -38,11 +36,11 @@ I started this part relatively early, when I was a fifth year primary school stu
 
 ## C/C++ (Object-oriented Programming and Operating System)
 
-###
+
 
 ### Reference
 
-1. C programming language
+1. C programming language (I believe it's the eternal classic!)
 
 2. Accelerate C++ (C++ Primer, Effective C++)
 
@@ -50,18 +48,22 @@ I started this part relatively early, when I was a fifth year primary school stu
 
 ## MySQL (Database System)
 
-###
+I started to get interested in this topic because I read about an introduction passage on CMU 15-445 module. 
 
 ### Reference
 
+1. https://15445.courses.cs.cmu.edu/fall2020/
+
 ## Paths to go: 
 
-1. Natural Language Processing
+1. Distributed System
 
-2. Distributed System
+2. Machine Learning System
 
-3. Network
+3. Natural Language Processing
 
-4. Advanced algorithms
+4. Network
 
-5. Compiler
+5. Advanced algorithms
+
+6. Compiler
