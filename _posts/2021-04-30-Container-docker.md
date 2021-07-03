@@ -22,7 +22,11 @@ To do that, you can run the `docker rm` command. Just copy the container IDs fro
 
 `docker cp ~/GitHub/pytorch-classification-master  shida_research_0:/`
 
+One last thing that'll be useful is the `--rm` flag that can be passed to docker run which automatically deletes the container once it's exited from. For one off docker runs, `--rm` flag is very useful.
+
 ## Continue the work
+
+`Ctrl-P` `Ctrl-Q` can exit the docker container without shutting it down. 
 
 `docker container start shida_research_0`
 
