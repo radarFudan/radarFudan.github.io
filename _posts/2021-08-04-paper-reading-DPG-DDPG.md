@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "paper reading: DDPG"
+title: "paper reading: DPG and DDPG"
 date: 2021-08-04
 ---
 
 ## Paper 8
 [Deep DPG](https://arxiv.org/abs/1509.02971)
 
-## Intro 
+## What is the difference between DPG and DDPG? 
 
 
 
