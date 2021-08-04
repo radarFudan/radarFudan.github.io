@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "paper reading: DDPG"
-date: 2021-04-22
+date: 2021-08-04
 ---
 
 ## Paper 8
