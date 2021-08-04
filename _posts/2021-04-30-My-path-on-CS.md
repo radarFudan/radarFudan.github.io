@@ -31,11 +31,17 @@ Later on, I was fortunate to get the opportunity to take an internship at Megvii
 
 2. [Deep Learning](https://www.deeplearningbook.org)
 
-3. Various Machine Learning paper! 
+3. [Elements of Statistical Learning]()
+
+3. [Reinforcement Learning]()
+
+4. Various Machine Learning paper! 
 
 ## Haskell (Functional Programming)
 
+Map, reduce, filter are some concepts still in my mind after three years.
 
+It's hard to try to understand things like Monad. 
 
 ### Reference
 
@@ -45,15 +51,15 @@ Later on, I was fortunate to get the opportunity to take an internship at Megvii
 
 ## C/C++ (Object-oriented Programming and Operating System)
 
+When I was at Fudan, it's not so convenient to go to Zhangjiang to take the operating system. The time on trip takes more than half an hour. Maybe it's due to the fact that I've already got an early offer, I have plenty of time to learn things like OS and take intern at Megvii when I was a senior. 
 
-
-`gdb` and `vim` are two most important tools I picked up during the OS courses. 
+`gdb` and `vim` are two most important tools I picked up during the OS courses. Also the rumination on xv6 is helpful to understand the basic sturcture of operating system.
 
 ### Reference
 
 1. C programming language (I believe it's the eternal classic!)
 
-2. Accelerate C++ (C++ Primer, Effective C++)
+2. Accelerated C++ (C++ Primer, Effective C++)
 
 3. [OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 

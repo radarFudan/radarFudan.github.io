@@ -9,6 +9,8 @@ date: 2021-04-22
 
 ## Intro 
 
+$$\max \mathbb{E} \big[ \int_0^T e^{-\rho s} u(c_s)ds + e^{-\rho T} u(W_T) \big]$$
+
 1. The control in Merton's problem is the Merton's fraction. 
 
 $$\pi(W, t) = \frac{\mu - r}{\sigma^2 \gamma},$$
@@ -19,6 +21,6 @@ $$c(W, t) = ,$$
 
 ## Reference 
 
-1. https://en.wikipedia.org/wiki/Merton%27s_portfolio_problem
+1. [Merton's Problem on Wiki](https://en.wikipedia.org/wiki/Merton%27s_portfolio_problem)
 
 2. 
