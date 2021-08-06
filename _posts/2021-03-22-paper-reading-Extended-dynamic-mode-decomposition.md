@@ -5,9 +5,10 @@ date: 2021-03-22
 ---
 
 ## Paper 5
+
 [EDMD](https://aip.scitation.org/doi/10.1063/1.4993854)
 
-I learned about this paper from a group seminar, I'll try to write down the main ideas to better understand the paper. 
+I learned about this paper from a group seminar, I'll try to write down the main ideas to better understand the paper.
 
 ## Dynamic Mode Decomposition
 
@@ -19,7 +20,7 @@ $$v_{i+1} = Av_i,$$
 
 $$V_2^N = AV_1^{N-1} + re_{N-1}^T,$$
 
-Regardless of the approach, the output of DMD is the eigenvalues and eigenvectors of 
+Regardless of the approach, the output of DMD is the eigenvalues and eigenvectors of
 $A$, which are referred to as the DMD eigenvalues and DMD modes respectively.
 
 ## Extended Dynamic Mode Decomposition
@@ -28,11 +29,11 @@ Extended DMD is a modification of Exact DMD that strengthens the connection betw
 
 ## Dictionary Learning
 
-Given a set of inoput data, $X = (x(1), x(2), \dots, x(N)) \in \mathbb{R}^{d \times N}$, we wish to find a sparse represeantation of it in the form of $X = DK$, where $D \in \mathbb{R}^{d \times M}$ is a size-$M$ set of dictionary vectors and $K \in \mathbb{R}^{M \times N}$ is a sparse representation. 
+Given a set of inoput data, $X = (x(1), x(2), \dots, x(N)) \in \mathbb{R}^{d \times N}$, we wish to find a sparse represeantation of it in the form of $X = DK$, where $D \in \mathbb{R}^{d \times M}$ is a size-$M$ set of dictionary vectors and $K \in \mathbb{R}^{M \times N}$ is a sparse representation.
 
 ## Main results
 
-EDMD-DL: EDMD with dictionary learning. 
+EDMD-DL: EDMD with dictionary learning.
 
 ## Reference:
 

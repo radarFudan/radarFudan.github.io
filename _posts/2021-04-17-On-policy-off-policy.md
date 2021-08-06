@@ -4,17 +4,17 @@ title: "What is on-policy and what is off-policy"
 date: 2021-04-17
 ---
 
-A reinforcement learning system consists of agent, policy, reward signal and value function. 
+A reinforcement learning system consists of agent, policy, reward signal and value function.
 
 ## Definition
 
-*On-policy:*
+_On-policy:_
 
-1. training samples are collected according to the target policy. 
+1. training samples are collected according to the target policy.
 
-For example, **SARSA**(staet-action-reward-state-action) is an on-policy learner. 
+For example, **SARSA**(staet-action-reward-state-action) is an on-policy learner.
 
-*Off-policy:*
+_Off-policy:_
 
 1. The off-policy approach does not require full trajectories and can reuse any past episodes (experience replay) for much better sample efficiency.
 
@@ -26,7 +26,7 @@ For example, **Q-learning** is off-policy learner.
 
 ## Explanation and comparison
 
-From reference 2: *The distinction disappears if the current policy is a greedy policy. However, such an agent would not be good since it never explores.*
+From reference 2: _The distinction disappears if the current policy is a greedy policy. However, such an agent would not be good since it never explores._
 
 The difference is this: <br>
 In on-policy learning, the $Q(s, a)$ function is learned from actions that we took using our current policy $\pi(a | s)$. <br>
@@ -43,4 +43,3 @@ In off-policy learning, the $Q(s, a)$ function is learned from taking different 
 4. https://towardsdatascience.com/on-policy-v-s-off-policy-learning-75089916bc2f
 
 5. https://analyticsindiamag.com/reinforcement-learning-policy/
-

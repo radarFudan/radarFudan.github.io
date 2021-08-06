@@ -4,11 +4,11 @@ title: "My path on Computer Science"
 date: 2021-04-30
 ---
 
-I basically order every topic in time order. And in these topics, I put some references(also in chronological order). 
+I basically order every topic in time order. And in these topics, I put some references(also in chronological order).
 
 ## Pascal (Algorithms)
 
-I started this part relatively early, when I was a fifth year primary school student. And this journey lasts for about four years. It's a charming experience to take part in thoses algorithm trainings and compertitions. I really really learned a lot from these experiences. They are not only about knowledge and techniques, but also related to how to face *failure* and challenges. 
+I started this part relatively early, when I was a fifth year primary school student. And this journey lasts for about four years. It's a charming experience to take part in thoses algorithm trainings and compertitions. I really really learned a lot from these experiences. They are not only about knowledge and techniques, but also related to how to face _failure_ and challenges.
 
 ### Reference
 
@@ -23,7 +23,7 @@ I started this part relatively early, when I was a fifth year primary school stu
 ## Matlab / Python (Machine Learning)
 
 When I was a freshman at university, I learned about the famous Machine Learning topic from various resourse. So I started with the Machine Learning MOOC to learn about this topic and it is interesting and delightful. Yes, I got stuck in the backpropogation task for two weeks. <br>
-Later on, I was fortunate to get the opportunity to take an internship at Megvii, which allows me to get hands on Machine Learning techniques applied to Computer Vision. I started to use python more and more since that time. 
+Later on, I was fortunate to get the opportunity to take an internship at Megvii, which allows me to get hands on Machine Learning techniques applied to Computer Vision. I started to use python more and more since that time.
 
 ### Reference
 
@@ -33,15 +33,15 @@ Later on, I was fortunate to get the opportunity to take an internship at Megvii
 
 3. [Elements of Statistical Learning]()
 
-3. [Reinforcement Learning]()
+4. [Reinforcement Learning]()
 
-4. Various Machine Learning paper! 
+5. Various Machine Learning paper!
 
 ## Haskell (Functional Programming)
 
 Map, reduce, filter are some concepts still in my mind after three years.
 
-It's hard to try to understand things like Monad. 
+It's hard to try to understand things like Monad.
 
 ### Reference
 
@@ -51,7 +51,7 @@ It's hard to try to understand things like Monad.
 
 ## C/C++ (Object-oriented Programming and Operating System)
 
-When I was at Fudan, it's not so convenient to go to Zhangjiang to take the operating system. The time on trip takes more than half an hour. Maybe it's due to the fact that I've already got an early offer, I have plenty of time to learn things like OS and take intern at Megvii when I was a senior. 
+When I was at Fudan, it's not so convenient to go to Zhangjiang to take the operating system. The time on trip takes more than half an hour. Maybe it's due to the fact that I've already got an early offer, I have plenty of time to learn things like OS and take intern at Megvii when I was a senior.
 
 `gdb` and `vim` are two most important tools I picked up during the OS courses. Also the rumination on xv6 is helpful to understand the basic sturcture of operating system.
 
@@ -67,7 +67,7 @@ When I was at Fudan, it's not so convenient to go to Zhangjiang to take the oper
 
 ## SQLite (Database System)
 
-I started to get interested in this topic because I read about an introduction passage on CMU 15-445 module. 
+I started to get interested in this topic because I read about an introduction passage on CMU 15-445 module.
 
 ### Reference
 
@@ -75,12 +75,12 @@ I started to get interested in this topic because I read about an introduction p
 
 2. https://15415.courses.cs.cmu.edu/fall2016/syllabus.html (TODO)
 
-3. 
+3.
 
-## Paths to go: 
+## Paths to go:
 
 1. Distributed System<br>
-https://pdos.csail.mit.edu/6.824/schedule.html (TODO)
+   https://pdos.csail.mit.edu/6.824/schedule.html (TODO)
 
 2. Machine Learning System
 
