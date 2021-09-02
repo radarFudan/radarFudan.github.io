@@ -14,14 +14,11 @@ Use <p></p> to from a paragraph. And \<br\> as a break.
 
 ## Emphasis
 
-Emphasis, aka italics, with \*asterisks\* or \_underscores\_. <br>
-Example: _asterisks_ or _underscores_
+Emphasis, aka italics, with \*asterisks\* or \_underscores\_.
 
-Strong emphasis, aka bold, with \*\*asterisks** or \_\_underscores\_\_. <br>
-Example: **asterisks\*\* or **underscores**
+Strong emphasis, aka bold, with \*\*asterisks\*\* or \_\_underscores\_\_.
 
-Combined emphasis with \*\*asterisks and \_underscores\_\*\*. <br>
-Example: **asterisks and _underscores_**
+Combined emphasis with \*\*\_asterisks and underscores\_\*\*.
 
 Strikethrough uses two tildes. \~\~Scratch this.\~\~ <br>
 Example: ~~Scratch this.~~
