@@ -11,7 +11,7 @@ date: 2021-02-06
 ## N choose d
 
 The number of schemes choosing d balls from N+d elements <br>
-{N+d \choose d}
+`{N+d \choose d}`
 
 ## Lots of symbols:
 
@@ -19,29 +19,13 @@ The number of schemes choosing d balls from N+d elements <br>
 
 ## How to insert pdf file at end of a Latex script
 
-\usepackage[final]{pdfpages}
-\includepdf[pages=-]{file.pdf} or \includepdf[pages=-,pagecommand={},width=\textwidth]{file.pdf}
+`\usepackage[final]{pdfpages}`
+`\includepdf[pages=-]{file.pdf} or \includepdf[pages=-,pagecommand={},width=\textwidth]{file.pdf}`
 
 ## How to write algorithm part in LaTeX:
 
-\\usepackage[ruled,vlined]{algorithm2e}
-\\begin{algorithm}[H]
-\\SetAlgoLined
-\\KwResult{Write here the result }
-initialization\;
-\\While{While condition}{
-instructions\;
-\\eIf{condition}{
-instructions1\;
-instructions2\;
-}{
-instructions3\;
-}
-}
-\\caption{How to write algorithms}
-\\end{algorithm}
+[Overleaf_website](https://www.overleaf.com/learn/latex/algorithms)
 
 ## Reference:
 
-1. [Overleaf_website](https://www.overleaf.com/learn/latex/algorithms)
-2. [Insert pdf file at the end of a latex script](https://tex.stackexchange.com/questions/105589/insert-pdf-file-in-latex-document)
+1. [Insert pdf file at the end of a latex script](https://tex.stackexchange.com/questions/105589/insert-pdf-file-in-latex-document)
