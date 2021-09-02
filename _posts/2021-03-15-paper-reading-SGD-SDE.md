@@ -30,7 +30,7 @@ Guess:
 
 2. $= L + \sqrt{2l-1} \Delta L$
 
-3. $|\nabla \mathcal{L}_{ \overline{\gamma}\_k }^l(x)|^2 \leq l (L_{\overline{\gamma}}')^2(1+|x|^2).$
+3. $|\nabla\mathcal{L}_{\overline{\gamma}\_k }^l(x)|^2\leq l (L_{\overline{\gamma}}')^2(1+|x|^2).$
 
 ## Two Failue Modes of SDE Approximation
 
