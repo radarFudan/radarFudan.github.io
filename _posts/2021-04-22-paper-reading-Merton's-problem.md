@@ -8,6 +8,8 @@ date: 2021-04-22
 
 [Merton's Problem](https://teach.business.uq.edu.au/courses/FINM6900/files/module-2/readings/MertonJET.pdf)
 
+Abandoned
+
 ## Intro
 
 $$\max \mathbb{E} \big[ \int_0^T e^{-\rho s} u(c_s)ds + e^{-\rho T} u(W_T) \big]$$
@@ -16,9 +18,9 @@ $$\max \mathbb{E} \big[ \int_0^T e^{-\rho s} u(c_s)ds + e^{-\rho T} u(W_T) \big]
 
 $$\pi(W, t) = \frac{\mu - r}{\sigma^2 \gamma},$$
 
-$$c(W, t) = ,$$
+<!-- $$c(W, t) = ,$$
 
-2. We can give a feedback control form for this problem like:
+2. We can give a feedback control form for this problem like:-->
 
 ## Reference
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Commands for docker"
+title: "Commands for Docker"
 date: 2021-04-30
 ---
 

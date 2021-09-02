@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Long-term website plan"
+date: 2024-05-01
+---
+
+## Main Purpose
+
+1. Carry out PhD research
+
+2. Write down what I've learned in this process to boost my understanding and for future reference.
+
+3. Introduce myself.
+
+## Recent todo
+
+1. Python virtual-env, write a script. (Used for simple project starter)
+
+2. CMU 15-445
+
+3. Python/C Leetcode
+
+4. What is mutual fund? (In Merton's problem)<br>
+   Mutual fund separation theorem: https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem <br>
+   Efficient frontier with no risk-free asset: https://en.wikipedia.org/wiki/Modern_portfolio_theory#Efficient_frontier_with_no_risk-free_asset
