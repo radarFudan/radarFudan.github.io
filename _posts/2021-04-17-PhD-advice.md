@@ -12,10 +12,10 @@ date: 2021-04-17
 
 3. https://arxiv.org/pdf/gr-qc/9703019.pdf
 
-4.
-
-## Rank my understanding of these advice:
+## Rank my understanding of these advice
 
 1. Keep reading
 
-2. Schedule life, research, social activity, entertainment, sleep, exercise properly.
+2. Schedule life, research, sleep, exercise, social activity, entertainment properly.
+
+3. Pay attention to the motivation of the work

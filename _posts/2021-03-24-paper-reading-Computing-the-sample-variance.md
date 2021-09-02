@@ -35,7 +35,3 @@ with $M_{1,1} = x_1$ and $S_{1,1} = 0$
 5. When the shift is the computed mean and the textbook algorithm is then applied to the shifted data, one obtains the corrected two-pass algorithm.
 
 $$S = \sum_{i=1}^N (x_i - \overline{x})^2 - \frac{1}{N} (\sum_{i=1}^N (x_i - \overline{x}))^2.$$
-
-## Condition numbers and error analysis
-
-Unrelated to my current progress, to be continued.

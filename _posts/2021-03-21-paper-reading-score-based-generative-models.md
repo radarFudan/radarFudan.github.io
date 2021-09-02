@@ -14,6 +14,6 @@ _EBM_(Energy Based Model): <br>
 
 ## Summary
 
-The SDE element is not so related to my current project, one book is mentioned during regular meeting:
+The SDE element is not so related to my current project, one book is suggested during regular meeting:
 
-Random Perturbations of Dynamical Systems by Mark I. Fridlin
+_Random Perturbations of Dynamical Systems by Mark I. Fridlin_
