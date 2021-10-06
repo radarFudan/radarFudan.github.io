@@ -29,3 +29,4 @@ The number of schemes choosing d balls from N+d elements <br>
 ## Reference:
 
 1. [Insert pdf file at the end of a latex script](https://tex.stackexchange.com/questions/105589/insert-pdf-file-in-latex-document)
+2. [LATEX from wikibook](https://en.wikibooks.org/wiki/LaTeX)
