@@ -25,5 +25,3 @@ $$\pi(W, t) = \frac{\mu - r}{\sigma^2 \gamma},$$
 ## Reference
 
 1. [Merton's Problem on Wiki](https://en.wikipedia.org/wiki/Merton%27s_portfolio_problem)
-
-2.

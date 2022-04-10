@@ -1,10 +1,33 @@
 ---
 layout: post
-title: "Pytorch"
-date: 2021-04-17
+title: "Pytorch and TensorFlow"
+date: 2022-02-14
 ---
 
+## Simple tutorials
+
+
+
+## Classical demos
+
+
+
 ## Reproducibility
+
+Here are some references I read when I need to fix the reproducibility in PyTorch. 
+
+To summarize:
+
+1. Random seed
+
+2. GPU floating-point discrepancy
+
+3. Nondeterministic algorithms (This one is usually associated with the GPU and the ML framework and correpsonding operators)
+
+4. Hyperparameter inconsistency and changes in data (manual factor)
+
+
+#### References
 
 1. https://pytorch.org/docs/stable/notes/randomness.html
 

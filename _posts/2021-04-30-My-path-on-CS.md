@@ -4,11 +4,11 @@ title: "My path on Computer Science"
 date: 2021-04-30
 ---
 
-I basically order every topic in time order. And in these topics, I put some references(also in chronological order).
+I basically order every topic in time order. And in these topics, I put some references (also in chronological order).
 
 ## Pascal (Algorithms)
 
-I started this part relatively early, when I was a fifth year primary school student. And this journey lasts for about four years. It's a charming experience to take part in thoses algorithm trainings and compertitions. I really really learned a lot from these experiences. They are not only about knowledge and techniques, but also related to how to face _failure_ and challenges.
+I started this part relatively early, when I was a fifth year primary school student. And this journey lasts for about four years. It's a charming experience to take part in thoses algorithm learning, trainings and competitions. I really really learned a lot from these experiences. They are not only about knowledge and techniques, but also related to how to face _failure_ and challenges.
 
 ### Reference
 
@@ -18,12 +18,13 @@ I started this part relatively early, when I was a fifth year primary school stu
 
 3. Introduction to algorithms (I watched the MIT open course during undergradaute winter vacation)
 
-4. https://www.comp.nus.edu.sg/~gilbert/CS5234/ (TODO)
+4. [CS5234 at NUS](https://www.comp.nus.edu.sg/~gilbert/CS5234/)
 
 ## Matlab / Python (Machine Learning)
 
-When I was a freshman at university, I learned about the famous Machine Learning topic from various resourse. So I started with the Machine Learning MOOC to learn about this topic and it is interesting and delightful. Yes, I got stuck in the backpropogation task for two weeks. <br>
-Later on, I was fortunate to get the opportunity to take an internship at Megvii, which allows me to get hands on Machine Learning techniques applied to Computer Vision. I started to use python more and more since that time.
+When I was a freshman at university, I learned about the famous Machine Learning topic from various resourse. So I started with the Machine Learning MOOC to learn about this topic and it is interesting and delightful. Yes, I got stuck in the backpropogation task for two weeks. Using Matlab at first, it is relatively easy for math major student to handle the simplest model in Matlab. <br>
+Later on, I was fortunate to get the opportunity to take an internship at Megvii, which allows me to get hands on Machine Learning techniques applied to Computer Vision / Computer Graphics. I started to use Python more since that time. <br>
+And lots of online modules helped me broaden the horizon and improve the techniques. 
 
 ### Reference
 
@@ -31,11 +32,13 @@ Later on, I was fortunate to get the opportunity to take an internship at Megvii
 
 2. [Deep Learning](https://www.deeplearningbook.org)
 
-3. [Elements of Statistical Learning]()
+3. [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
 
-4. [Reinforcement Learning]()
+4. [Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
-5. Various Machine Learning paper!
+5. [CS231n](http://cs231n.stanford.edu)
+
+6. Various Machine Learning paper!
 
 ## Haskell (Functional Programming)
 
