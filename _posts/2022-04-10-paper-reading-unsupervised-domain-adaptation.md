@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "paper reading: "
+title: "paper reading: Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation"
 date: 
 ---
 
-## Paper 
+## Paper 12
 
-[paper name](https://proceedings.mlr.press/v161/ryder21a/ryder21a.pdf)
+[Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation](https://arxiv.org/pdf/2204.00570.pdf)
 
 ## What is Contrastive Learning?
 
@@ -16,6 +16,8 @@ date:
 
 ## Why do we need it?
 
+Conventional UDA methods (e.g., domain adversarial training) learn domain-invariant features to improve generalization to the target domain.
+
 
 
 ## What's the assumptions of the improvement?
@@ -24,7 +26,7 @@ date:
 
 ## Contribution of this paper / Main result of this paper?
 
-1. 
+1. In this paper, we show that contrastive pre-training, which learns features on unlabeled source and target data and then fine-tunes on labeled source data, is competitive with strong UDA methods.
 
 2.
 
