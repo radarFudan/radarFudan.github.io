@@ -12,6 +12,12 @@ date: 2022-02-14
 
 
 
+## GPU allocation
+
+[link](https://stackoverflow.com/questions/34199233/how-to-prevent-tensorflow-from-allocating-the-totality-of-a-gpu-memory)
+
+
+
 ## Reproducibility
 
 Here are some references I read when I need to fix the reproducibility in PyTorch. 
