@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "paper reading: Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation"
-date: 
+date: 2022-04-10
 ---
 
 ## Paper 12
