@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "paper reading: "
-date: 
+date: 2025-08-01
 ---
 
 ## Paper 
