@@ -8,15 +8,15 @@ date: 2025-08-01
 
 [paper name](https://proceedings.mlr.press/v161/ryder21a/ryder21a.pdf)
 
-## What is ?
+## What is the problem/phenemenon?
 
 
 
-## Why do we need it?
+## Why do we study it?
 
 
 
-## What's the assumptions of the improvement?
+## What's the assumptions/focus of the improvement?
 
 
 
