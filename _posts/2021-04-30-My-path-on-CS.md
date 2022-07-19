@@ -6,7 +6,7 @@ date: 2021-04-30
 
 I basically order every topic in time order. And in these topics, I put some references (also in chronological order).
 
-## Pascal (Algorithms)
+## Pascal (Data Structures and Algorithms)
 
 I started this part relatively early, when I was a fifth year primary school student. And this journey lasts for about four years. It's a charming experience to take part in thoses algorithm learning, trainings and competitions. I really really learned a lot from these experiences. They are not only about knowledge and techniques, but also related to how to face _failure_ and challenges.
 
@@ -19,6 +19,8 @@ I started this part relatively early, when I was a fifth year primary school stu
 3. Introduction to algorithms (I watched the MIT open course during undergradaute winter vacation)
 
 4. [CS5234 at NUS](https://www.comp.nus.edu.sg/~gilbert/CS5234/)
+
+5. [CS6234 at NUS](https://www.comp.nus.edu.sg/~cs6234/2009/)
 
 ## Matlab / Python (Machine Learning)
 
@@ -38,7 +40,11 @@ And lots of online modules helped me broaden the horizon and improve the techniq
 
 5. [CS231n](http://cs231n.stanford.edu)
 
-6. Various Machine Learning paper!
+6. [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+
+7. [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+
+8. Various Machine Learning paper!
 
 ## Haskell (Functional Programming)
 
@@ -90,6 +96,7 @@ I started to get interested in this topic because I read about an introduction p
 3. Natural Language Processing
 
 4. Network
+   https://book.systemsapproach.org/index.html (TODO)
 
 5. Advanced algorithms
 

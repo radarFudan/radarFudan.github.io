@@ -24,4 +24,4 @@ date: 2025-08-01
 
 5. Read something interesting like [Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
 
-6. Machine Learning related: [Course-1](https://alliance.seas.upenn.edu/~cis520/wiki/index.php?n=Lectures.Lectures) [Course-2](https://nikolaimatni.github.io/courses/ese680-fall2019/schedule.html)
+6. Machine Learning related: [Course-1](https://github.com/joanbruna/MathsDL-spring18) [Course-2](https://cilvr.cs.nyu.edu/doku.php?id=courses:bigdata:slides:start) [Course-3](https://stats385.github.io)
