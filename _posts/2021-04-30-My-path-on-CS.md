@@ -61,9 +61,11 @@ It's hard to try to understand things like *Monad*.
 
 1. [CS16100](http://cmsc-16100.cs.uchicago.edu/2020-autumn/)
 
-2. [CS242](http://www.cs.tufts.edu/~kfisher/teaching.html) (TODO)
+2. [Some Lectures on Programming Languages](http://www.cs.tufts.edu/~kfisher/teaching.html) (TODO)
 
-3. [Rust](https://doc.rust-lang.org/book/) (TODO)
+3. [CS242](http://www.cs.tufts.edu/~kfisher/teaching.html) (TODO)
+
+4. [Rust](https://doc.rust-lang.org/book/) (TODO)
 
 ## C/C++ (Object-oriented Programming and Operating System)
 
@@ -82,6 +84,14 @@ When I was at undergraduate at Fudan, it's not so convenient to go from Handan c
 4. [OSDev](https://wiki.osdev.org/Main_Page)
 
 5. [Moden Operating System](https://en.wikipedia.org/wiki/Modern_Operating_Systems)
+
+6. [CS106B](https://web.stanford.edu/class/cs106b/) (TODO)
+
+7. [CS106L](https://web.stanford.edu/class/cs106l/) (TODO)
+
+8. [CS106X](https://web.stanford.edu/class/cs106x/) (TODO)
+
+9. [PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall21) (TODO)
 
 ## SQLite (Database System)
 
@@ -116,3 +126,4 @@ I started to get interested in this topic because I read about an introduction p
    <https://cs251.stanford.edu/syllabus.html> (TODO)
 
 6. Compiler
+   <https://web.stanford.edu/class/cs143/> (TODO)
