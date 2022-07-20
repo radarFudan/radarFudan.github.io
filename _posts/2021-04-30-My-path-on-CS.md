@@ -37,19 +37,26 @@ Later on, when I need to decide the direction of my Ph.D. study, I met my superv
 
 2. [Deep Learning](https://www.deeplearningbook.org)
 
-3. [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
+3. Foundations of Machine Learning
 
-4. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+4. [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
 
-5. [Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+5. Understanding Machine Learning: From Theory to Algorithms
 
-6. [CS231n](http://cs231n.stanford.edu)
+6. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-7. [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+7. [Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+   [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
-8. [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+8. [CS231n](http://cs231n.stanford.edu)
 
-9. Various Machine Learning paper!
+9. [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) (TODO)
+
+10. [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) (TODO)
+
+11. Various Machine Learning paper!
+
+12. [Machine Learning in Production / AI Engineering](https://ckaestne.github.io/seai/) (TODO)
 
 ## Haskell (Functional Programming)
 
