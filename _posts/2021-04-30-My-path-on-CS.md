@@ -4,31 +4,34 @@ title: "My path on Computer Science"
 date: 2021-04-30
 ---
 
-I basically order every topic in time order. And in these topics, I put some references (also in chronological order).
+Topics are ordered in time order. And for each topic, I put some references (also in chronological order).
 
 ## Pascal (Data Structures and Algorithms)
 
-I started this part relatively early, when I was a fifth year primary school student. And this journey lasts for about four years. It's a charming experience to take part in thoses algorithm learning, trainings and competitions. I really really learned a lot from these experiences. They are not only about knowledge and techniques, but also related to how to face _failure_ and challenges.
+I started this part relatively early, when I was a fifth-year primary school student. And this journey lasts for about four years. It's a charming experience to take part in algorithm competitions. I really really learned a lot from these experiences. They are not only about knowledge and techniques, but also about to how to face _failure_ and challenges.
 
-### Reference
+### Reference for Pascal
 
-1. Various unknown textbooks (Sorry to forget the specific names)
+1. Various textbooks, for example Introduction to Algorithms by Thomas H. Cormen and Algorithms by Robert Sedgewick.
 
-2. Various online judgement system (**tyvj**)
+2. Various online judgement system (**tyvj** and **usaco**)
 
-3. Introduction to algorithms (I watched the MIT open course during undergradaute winter vacation)
+3. Introduction to algorithms (MIT open course)
 
 4. [CS5234 at NUS](https://www.comp.nus.edu.sg/~gilbert/CS5234/)
 
 5. [CS6234 at NUS](https://www.comp.nus.edu.sg/~cs6234/2009/)
 
+6. [CS 97SI: Introduction to Programming Contests](https://web.stanford.edu/class/cs97si/) (TODO)
+
 ## Matlab / Python (Machine Learning)
 
-When I was a freshman at university, I learned about the famous Machine Learning topic from various resourse. So I started with the Machine Learning MOOC to learn about this topic and it is interesting and delightful. Yes, I got stuck in the backpropogation task for two weeks. Using Matlab at first, it is relatively easy for math major student to handle the simplest model in Matlab. <br>
+When I was a freshman at university, I learned about the famous Machine Learning topic from various resourses. I started with the Machine Learning MOOC on Coursera to learn about this topic and it is interesting and delightful. <br>
 Later on, I was fortunate to get the opportunity to take an internship at Megvii, which allows me to get hands on Machine Learning techniques applied to Computer Vision / Computer Graphics. I started to use Python more since that time. <br>
-And lots of online modules helped me broaden the horizon and improve the techniques. 
+And lots of online modules helped me broaden the horizon and improve the techniques.  <br>
+Later on, when I need to decide the direction of my Ph.D. study, I met my supervisor and found his work interesting. Then I decide to learn more about this area. <br>
 
-### Reference
+### Reference for Machine Learning
 
 1. [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
@@ -36,21 +39,23 @@ And lots of online modules helped me broaden the horizon and improve the techniq
 
 3. [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
 
-4. [Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+4. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-5. [CS231n](http://cs231n.stanford.edu)
+5. [Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
-6. [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+6. [CS231n](http://cs231n.stanford.edu)
 
-7. [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+7. [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 
-8. Various Machine Learning paper!
+8. [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+
+9. Various Machine Learning paper!
 
 ## Haskell (Functional Programming)
 
-Map, reduce, filter are some concepts still in my mind after three years.
+*Map*, *reduce*, *filter* are some concepts still in my mind after three years.
 
-It's hard to try to understand things like Monad.
+It's hard to try to understand things like *Monad*.
 
 ### Reference
 
@@ -58,11 +63,13 @@ It's hard to try to understand things like Monad.
 
 2. [CS242](http://www.cs.tufts.edu/~kfisher/teaching.html) (TODO)
 
+3. [Rust](https://doc.rust-lang.org/book/) (TODO)
+
 ## C/C++ (Object-oriented Programming and Operating System)
 
-When I was at Fudan, it's not so convenient to go to Zhangjiang to take the operating system. The time on trip takes more than half an hour. Maybe it's due to the fact that I've already got an early offer, I have plenty of time to learn things like OS and take intern at Megvii when I was a senior.
+When I was at undergraduate at Fudan, it's not so convenient to go from Handan campus to Zhangjiang campus to take the operating system. The time on trip takes more than half an hour. Maybe it's existence of the early offer, I have plenty of time to learn things like OS and take intern at Megvii when I was a senior.
 
-`gdb` and `vim` are two most important tools I picked up during the OS courses. Also the rumination on xv6 is helpful to understand the basic sturcture of operating system.
+`gdb` and `vim` are two most important tools I picked up during the OS courses. Also the rumination on xv6 is helpful to understand the basic structures of operating system.
 
 ### Reference
 
@@ -74,30 +81,38 @@ When I was at Fudan, it's not so convenient to go to Zhangjiang to take the oper
 
 4. [OSDev](https://wiki.osdev.org/Main_Page)
 
+5. [Moden Operating System](https://en.wikipedia.org/wiki/Modern_Operating_Systems)
+
 ## SQLite (Database System)
 
 I started to get interested in this topic because I read about an introduction passage on CMU 15-445 module.
 
 ### Reference
 
-1. https://15445.courses.cs.cmu.edu/fall2020/ (TODO)
+1. <https://15415.courses.cs.cmu.edu/fall2016/syllabus.html> (TODO)
 
-2. https://15415.courses.cs.cmu.edu/fall2016/syllabus.html (TODO)
+2. <https://15445.courses.cs.cmu.edu/fall2020/> (TODO)
 
-3.
+3. <https://www.cs.cmu.edu/~15712/www/> (TODO)
+
+4. <https://15721.courses.cs.cmu.edu/spring2020/schedule.html> (TODO)
 
 ## Paths to go:
 
 1. Distributed System<br>
    https://pdos.csail.mit.edu/6.824/schedule.html (TODO)
 
-2. Machine Learning System
+2. Machine Learning System<br>
+   <https://stanford-cs329s.github.io> (TODO)<br>
+   <https://catalyst.cs.cmu.edu/15-884-mlsys-sp21/> (TODO)
 
 3. Natural Language Processing
+   <https://web.stanford.edu/class/cs224n/> (TODO)
 
 4. Network
-   https://book.systemsapproach.org/index.html (TODO)
+   <https://book.systemsapproach.org/index.html> (TODO)
 
-5. Advanced algorithms
+5. Cryptography
+   <https://cs251.stanford.edu/syllabus.html> (TODO)
 
 6. Compiler
