@@ -16,10 +16,6 @@ date: 2025-08-01
 
 
 
-## What's the assumptions/focus of the improvement?
-
-
-
 ## Contribution of this paper / Main result of this paper?
 
 1. 
@@ -27,3 +23,4 @@ date: 2025-08-01
 2.
 
 ## Reference
+

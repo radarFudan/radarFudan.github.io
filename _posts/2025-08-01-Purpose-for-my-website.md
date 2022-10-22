@@ -14,14 +14,12 @@ date: 2025-08-01
 
 ## Recent todo
 
-1. Project on nonlinear RNN
+1. Project on model predictive control, improve the efficiency of the algorithms.
 
-2. Work on CS61B, recap on data structure and algorithm
+2. [CS106B](https://web.stanford.edu/class/cs106b/)
 
-3. [CS106B](https://web.stanford.edu/class/cs106b/)
+3. [CS149](https://gfxcourses.stanford.edu/cs149/fall22)
 
-4. [CS149](https://gfxcourses.stanford.edu/cs149/fall21)
+4. Read something interesting like [Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
 
-5. Read something interesting like [Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
-
-6. Machine Learning related: [Course-1](https://github.com/joanbruna/MathsDL-spring18) [Course-2](https://cilvr.cs.nyu.edu/doku.php?id=courses:bigdata:slides:start) [Course-3](https://stats385.github.io)
+5. Machine Learning related: 
