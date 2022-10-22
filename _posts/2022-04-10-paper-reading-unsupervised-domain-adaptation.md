@@ -12,7 +12,7 @@ date: 2022-04-10
 
 ## What is Unsupervised Domain Adaptation?
 
-
+Labeled data from a source domain (e.g., photos) and unlabeled data from a target domain (e.g., sketches) are used to learn a classifier for the target domain.
 
 ## Why do we need it?
 
