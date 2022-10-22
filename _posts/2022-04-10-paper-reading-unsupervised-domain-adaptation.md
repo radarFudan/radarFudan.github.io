@@ -10,6 +10,8 @@ date: 2022-04-10
 
 ## What is Contrastive Learning?
 
+Contrastive learning methods perform self-supervised learning of a feature encoder on unlabeled data.
+
 ## What is Unsupervised Domain Adaptation?
 
 Labeled data from a source domain (e.g., photos) and unlabeled data from a target domain (e.g., sketches) are used to learn a classifier for the target domain.
@@ -18,7 +20,11 @@ Labeled data from a source domain (e.g., photos) and unlabeled data from a targe
 
 Conventional UDA methods (e.g., domain adversarial training) learn domain-invariant features to improve generalization to the target domain.
 
+Intuitively, if the distributions over features for the source and target domains are indistinguishable and the accuracy is high on the source, then the accuracy should be high on the target as well.
 
+But?
+
+Domain adversarial neural networks (DANN) (Ganin et al., 2016) optimizes the sum of two terms: a source classification loss, and a “domain confusion” loss that makes it difficult to predict the domain dx from the feature $\phi(x)$.
 
 ## What's the assumptions of the improvement?
 
@@ -28,6 +34,8 @@ Conventional UDA methods (e.g., domain adversarial training) learn domain-invari
 
 1. In this paper, we show that contrastive pre-training, which learns features on unlabeled source and target data and then fine-tunes on labeled source data, is competitive with strong UDA methods.
 
-2.
+2. However, we find that contrastive pre-training does not learn domain-invariant features, diverging from conventional UDA intuitions.
+
+
 
 ## Reference
