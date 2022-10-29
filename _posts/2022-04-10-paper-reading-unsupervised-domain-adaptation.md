@@ -39,3 +39,5 @@ Domain adversarial neural networks (DANN) (Ganin et al., 2016) optimizes the sum
 
 
 ## Reference
+
+Our connectivity theory can also potentially explain when contrastive pre-training for domain adaptation does not perform well, such as on the iWildCam2020-WILDS dataset (Sagawa et al., 2022).
