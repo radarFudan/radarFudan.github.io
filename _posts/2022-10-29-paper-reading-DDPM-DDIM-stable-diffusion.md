@@ -18,7 +18,7 @@ Diffusion probabilistic models are used to generate high quality images.
 
 Based on the forward process that adding random noise to an image, the model is trying to "learn" the reverse process that reconstruct the image based on the random noise and the reverse noise adding operation.
 
-The distribution $q(x_{t-1} | x_t)$ in reverse process is still Gaussian when the noise in forward process is small. 
+The distribution $q(x_{t-1}|x_t)$ in reverse process is still Gaussian when the noise in forward process is small. 
 
 
 ## Why is it important / Why do we study it?
@@ -39,7 +39,7 @@ The distribution $q(x_{t-1} | x_t)$ in reverse process is still Gaussian when th
 
 ## Reference / Further to read
 
-1. https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
+1. Weng, Lilian. (Jul 2021). What are diffusion models? Lil’Log. https://lilianweng.github.io/posts/2021-07-11-diffusion-models/.
 
 2. https://arxiv.org/abs/1503.03585
 
