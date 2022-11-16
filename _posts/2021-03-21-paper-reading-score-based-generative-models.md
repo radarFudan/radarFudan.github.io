@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading: Score Based Generative Model"
 date: 2021-03-21
+categories:
 ---
 
 ## Paper 4

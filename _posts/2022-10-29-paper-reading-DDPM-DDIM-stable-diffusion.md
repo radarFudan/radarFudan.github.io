@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading: What is diffusion model?"
 date: 2022-10-29
+categories:
 ---
 
 ## Paper 

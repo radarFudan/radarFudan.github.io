@@ -1,2 +1,19 @@
-  name: Wang Shida
-  markdown: kramdown
+title: Wang Shida's Personal Website
+email: shida_wang@u.nus.edu
+description: "Musings of a young Mathematician and Computer Scientist."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://radarfudan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+name: Wang Shida
+twitter_username: SanderWangSD
+github_username: radarFudan
+
+markdown: kramdown
+permalink: pretty
+
+theme: minima
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge

@@ -2,6 +2,7 @@
 layout: post
 title: "Long-term website plan"
 date: 2025-08-01
+categories:
 ---
 
 ## Main plan

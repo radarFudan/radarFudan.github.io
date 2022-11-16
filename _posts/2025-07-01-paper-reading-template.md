@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading: "
 date: 2025-07-01
+categories:
 ---
 
 ## Paper 

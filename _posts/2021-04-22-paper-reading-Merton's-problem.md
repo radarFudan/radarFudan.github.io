@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading: Merton's problem"
 date: 2021-04-22
+categories:
 ---
 
 ## Paper 7

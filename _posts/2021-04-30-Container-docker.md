@@ -2,6 +2,7 @@
 layout: post
 title: "Commands for Docker"
 date: 2021-04-30
+categories:
 ---
 
 ## First time Commands

@@ -2,6 +2,7 @@
 layout: post
 title: "PhD advice"
 date: 2021-04-17
+categories:
 ---
 
 ## Collect the advice I read about:

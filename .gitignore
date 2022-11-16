@@ -1,3 +1,15 @@
-_site/
-.history/
 .DS_Store
+
+Gemfile
+Gemfile.lock
+
+_site
+.history/
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+_drafts/
+
+.obsidian

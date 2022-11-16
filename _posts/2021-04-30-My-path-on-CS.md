@@ -2,6 +2,7 @@
 layout: post
 title: "My path on Computer Science"
 date: 2021-04-30
+categories:
 ---
 
 Topics are ordered in time order. And for each topic, I put some references (also in chronological order).

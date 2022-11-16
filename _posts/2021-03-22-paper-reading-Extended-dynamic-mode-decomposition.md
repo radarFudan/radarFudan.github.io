@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading: Extended dynamic mode decomposition with dictionary learning"
 date: 2021-03-22
+categories:
 ---
 
 ## Paper 5

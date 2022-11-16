@@ -1,46 +1,52 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
+<html>
 
-			<!-- MathJax -->
-			<script type="text/x-mathjax-config"> 
+<head>
+	<title>{{ page.title }}</title>
+	<!-- link to main stylesheet -->
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
 				MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } }); 
 			</script>
-			<script type="text/x-mathjax-config">
+	<script type="text/x-mathjax-config">
 				MathJax.Hub.Config({
 					tex2jax: {
-						inlineMath: [ ['$','$'], ["\\(","\\)"], ["\\[","\\]"] ],
+						inlineMath: [ ['$','$'], ["\\(","\\)"],
+            			displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
 						processEscapes: true
 					}
 				});
 			</script>
-			<script type="text/javascript"
-				src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-			</script>
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blogs</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:shida_wang@u.nus.edu">Email</a></li>
-	        		<li><a href="https://linkedin.com/in/铈达-汪-ba9178158">LinkedIn</a></li>
-				</ul>
-			</footer>
-			<!-- <img src="images/test-image.jpeg" alt="My test image"> -->
-		</body>
-	</html>
+	<script type="text/javascript"
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+		</script>
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/cv">CV</a></li>
+			<li><a href="/blog">Blogs</a></li>
+		</ul>
+	</nav>
+	<div class="container">
+
+		{{ content }}
+
+	</div><!-- /.container -->
+	<footer>
+		<ul>
+			<li><a href="mailto:shida_wang@u.nus.edu">Email</a></li>
+			<li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+			<li><a href="https://linkedin.com/in/铈达-汪-ba9178158">LinkedIn</a></li>
+			<li><a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
+		</ul>
+	</footer>
+	<!-- <img src="assets/images/test-image.jpeg" alt="My test image"> -->
+</body>
+
+</html>

@@ -2,6 +2,7 @@
 layout: post
 title: "Latex support on github pages"
 date: 2021-03-17
+categories:
 ---
 
 The references are detailed and I won't reinvent the wheel again.

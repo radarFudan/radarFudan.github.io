@@ -2,6 +2,7 @@
 layout: post
 title: "Pytorch and TensorFlow"
 date: 2022-02-14
+categories:
 ---
 
 ## Simple tutorials

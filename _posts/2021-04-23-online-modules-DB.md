@@ -2,6 +2,7 @@
 layout: post
 title: "Online-moduels-Database"
 date: 2021-04-23
+categories:
 ---
 
 Q: Why database? <br>

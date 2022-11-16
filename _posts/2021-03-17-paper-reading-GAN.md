@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading: GAN"
 date: 2021-03-17
+categories:
 ---
 
 ## Paper 2

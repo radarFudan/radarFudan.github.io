@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading: How to Escape Saddle Points Efficiently"
 date: 2021-09-02
+categories:
 ---
 
 ## Paper 10

@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading: The Neural Moving Average Model for Scalable Variational Inference of State Space Models"
 date: 2022-04-10
+categories:
 ---
 
 ## Paper 11

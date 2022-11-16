@@ -2,6 +2,7 @@
 layout: post
 title: "What is on-policy and what is off-policy"
 date: 2021-04-17
+categories:
 ---
 
 A reinforcement learning system consists of agent, policy, reward signal and value function.

@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading SGD&SDE"
 date: 2021-03-15
+categories:
 ---
 
 ## Paper 1

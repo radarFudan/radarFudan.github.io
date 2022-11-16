@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading: The 'echo state' approach to analysing and training recurrent neural networks – with an Erratum note"
 date: 2022-10-29
+categories:
 ---
 
 ## Paper 

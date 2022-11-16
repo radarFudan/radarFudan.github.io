@@ -2,6 +2,7 @@
 layout: post
 title: "latex-notes"
 date: 2021-02-06
+categories:
 ---
 
 ## Left parenthesis:

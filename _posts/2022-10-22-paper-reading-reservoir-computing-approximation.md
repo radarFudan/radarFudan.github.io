@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading: How reservoir computing present the approximation capacity of neural network"
 date: 2022-10-22
+categories:
 ---
 
 ## Paper 13-15

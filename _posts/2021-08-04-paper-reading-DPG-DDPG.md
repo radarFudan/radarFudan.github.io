@@ -2,6 +2,7 @@
 layout: post
 title: "paper reading: DPG and DDPG"
 date: 2021-08-04
+categories:
 ---
 
 ## Paper 8
