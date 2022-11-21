@@ -3,9 +3,10 @@ layout: post
 title: "paper reading: What is diffusion model?"
 date: 2022-10-29
 categories:
+mathjax: true
 ---
 
-## Paper 
+## Paper List
 
 [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
 
@@ -29,21 +30,17 @@ Diffusion probabilistic models are used to generate high quality images.
 
 Based on the forward process that adding random noise to an image, the model is trying to "learn" the reverse process that reconstruct the image based on the random noise and the reverse noise adding operation.
 
-The distribution $q(x_{t-1}|x_t)$ in reverse process is still Gaussian when the noise in forward process is small. (DDPM)
+The distribution $q(x_{t-1}\vert x_t)$ in reverse process is still Gaussian when the noise in forward process is small. (DDPM)
 
-## Several questions?
-
-### What is the difference between the loss function in Dickstein and Ho? 
+## What is the difference between the loss function in Dickstein and Ho? 
 
 
 
-### What are the improvements of different samplers?
+## What are the improvements of different samplers?
 
-DDPM -> DDIM -> PNDM -> DEIS -> DPM
+DDPM -> DDIM -> PNDM -> DEIS -> DPM: 
 
-TODO
-
-### What is the meaning of stable in stable diffusion?
+## What is the meaning of stable in stable diffusion?
 
 
 
