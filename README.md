@@ -1,3 +1,3 @@
 # radarFudan.github.io
 
-This is a personal website for me to introduce myself and writing some things during my Ph.D. study. 
+My personal website to introduce myself and log Ph.D. study.
