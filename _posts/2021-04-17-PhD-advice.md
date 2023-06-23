@@ -13,6 +13,8 @@ categories: talks
 
 3. https://arxiv.org/pdf/gr-qc/9703019.pdf
 
+4. http://joschu.net/blog/opinionated-guide-ml-research.html
+
 ## Rank my understanding of these advice
 
 1. Keep reading
