@@ -2,7 +2,7 @@
 layout: post
 title: "paper reading: What is diffusion model?"
 date: 2022-10-29
-categories:
+categories: Research
 mathjax: true
 ---
 
@@ -89,3 +89,4 @@ Based on score approach, there is a text-guided generation which generate the da
 3. https://github.com/acids-ircam/diffusion_models
 
 4. 
+
