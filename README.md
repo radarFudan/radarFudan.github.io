@@ -1,3 +1,3 @@
 # radarFudan.github.io
 
-My personal website to introduce myself and log Ph.D. study.
+Hi, this is the personal website for Shida Wang. 
