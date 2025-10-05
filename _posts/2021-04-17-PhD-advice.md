@@ -15,6 +15,10 @@ categories: talks
 
 4. http://joschu.net/blog/opinionated-guide-ml-research.html
 
+5. https://rowanzellers.com/blog/rowan-job-search/
+
+6. https://rowanzellers.com/blog/rowan-job-search2/
+
 ## Rank my understanding of these advice
 
 1. Keep reading
